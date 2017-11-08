@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://192.168.2.3:9000/" />
+          <option name="name" value="esignpro" />
+          <option name="login" value="admin" />
+          <password>dfcbdfcedfc7dfc3dfc4</password>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
